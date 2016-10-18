@@ -1,0 +1,18 @@
+brew
+echo PATH
+echo $PATH
+emacs
+brew
+touch .ac-php-conf.json 
+cat .ac-php-conf.json 
+source .bash_profile
+source .bashrc
+vi .bash_profile
+source .bash_profile
+vi .bash_profile
+vi .bash_profile
+vi .bash_profile
+brew
+bash
+brew
+shell
