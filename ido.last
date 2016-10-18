@@ -1,0 +1,49 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/WJ/GitHub/admin/application/controllers/" . "admin/")
+ ("/Users/WJ/GitHub/admin/application/" . "controllers/")
+ ("/Users/WJ/GitHub/admin/" . "application/")
+ ("/Users/WJ/GitHub/" . "admin/")
+ ("/Users/WJ/" . "GitHub/")
+ ("/Users/WJ/.emacs.d/" . "lisp/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/WJ/GitHub/admin/application/controllers/admin/"
+ "/Users/WJ/.emacs.d/lisp/"
+ "/Users/WJ/.emacs.d/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "validation.php"
+ "ace-jump-mode.el"
+ "init.el"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/WJ/GitHub/admin/application/controllers/admin/" (22498 23848 0 0) "validation.php" "user_list.php" "user_info.php" "user_center.php" "task_list.php" "stats.php" "project_list.php" "project_info.php" "profile.php" "message.php" "login.php" "index.html" "fund_list.php" "fund_info.php" "feedback.php" "email_templates.php" "email_inbox.php" "edit_profile.php" "contacts_list.php" "company_list.php" "add_user.php" "add_project_set.php" "add_project.php" "add_project (WINDOWS-19KV8Q7 的冲突副本 2014-04-09).php" "add_fund.php" "add_contacts.php" ".#validation.php" "../" "./")
+
+ ("/Users/WJ/.emacs.d/" (22498 23266 0 0) "var/" "snippets/" "lisp/" "init.el" "eshell/" "elpa/" "auto-save-list/" "ac-comphist.dat" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/WJ/.emacs.d/lisp/" (22498 13906 0 0) "yafolding.el" "web-mode.el" "semantic-tag-folding.el~" "semantic-tag-folding.el" "color-theme.el" "../" "./")
+
+ ("/Users/" (22076 5075 0 0) "WJ/" "Shared/" "Guest/" ".localized" "../" "./")
+
+ ("/Users/WJ/" (22498 5748 0 0) "百度云同步盘/" "未命名文件夹/" "Zend/" "Thunder/" "TEST/" "sshpass/" "Sites/" "session/" "Public/" "Pictures/" "phpredis-master.zip" "phpredis-master/" "php7/" "PHP/" "OReilly.Learning.to.Love.Data.Science.2015.10.pdf" "OReilly.Learning.to.Love.Data.Science.2015.10.mobi" "OReilly.Learning.to.Love.Data.Science.2015.10.epub" "null.png" "ngrok" "Music/" "Movies/" "mongodb/" "master" "MAC 软件/" "Library/" "Learning.PHP.Design.Patterns.William.Sanders.文字版.pdf" "laravel/" "ipscan.txt" "IOS/" "GitHub/" "git/" "dump.rdb" "Downloads/" "Documents/" "Developer/" "Desktop/" "cminstaller/" "bluemix/" "bashrc" "APT/" "Applications/" "Andriod/" "ac-php/" "[Magento.PHP.Developer's.Guide(2013.4)].pdf" "[Magento.PHP.Developer's.Guide(2013.4)].epub" "360云盘/" ":q" ".zs" ".zenmap-etc/" ".zenmap/" ".ZendStudio/" ".zend/" ".yunpan/" ".xbmc/" ".Xauthority" ".viminfo" ".vim/" ".vagrant.d/" ".v8flags.4.6.85.28.WJ.json" ".Trash/" ".subversion/" ".ssh/" ".sogouinput/" ".ShadowsocksX/" ".sh_history" ".rnd" ".rediscli_history" ".putty/" ".plugman/" ".php_history" ".org.eclipse.epp.usagedata.recording.userId" ".oracle_jre_usage/" ".npm/" ".ngrok2/" ".mysql_history" ".mozilla/" ".mongorc.js" ".local/" ".lesshst" ".ionic/" ".Graboid/" ".gitconfig" ".git-completion.bash" ".git/" ".emacs.d-master/" ".emacs.d/" ".DS_Store" ".docker/" ".dbshell" ".cups/" ".cordova/" ".config/" ".composer/" ".CFUserTextEncoding" ".cf/" ".cache/" ".bashrc" ".bash_sessions/" ".bash_profile" ".bash_history" ".bash" ".android/" ".adobe/" ".ac-php/" "../" "./")
+
+ ("/Users/WJ/GitHub/" (22192 18032 0 0) "InvestorApp/" "howbuy-android-app/" "Hello/" "angular.js/" "admin/" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/WJ/GitHub/admin/" (22497 62554 0 0) "weixin/" "upload/" "system/" "license.txt" "index.php" "ext/" "c/" "assets/" "application/" ".travis.yml" ".svn/" ".settings/" ".project" ".htaccess" ".gitignore" ".git/" ".DS_Store" ".buildpath" ".ac-php-conf.json" "../" "./")
+
+ ("/Users/WJ/GitHub/admin/application/" (21592 32195 0 0) "views/" "third_party/" "models/" "logs/" "libraries/" "language/" "index.html" "hooks/" "helpers/" "errors/" "core/" "controllers/" "config/" "cache/" "application - 快捷方式.lnk" ".htaccess" ".DS_Store" "../" "./")
+
+ ("/Users/WJ/GitHub/admin/application/controllers/" (21557 5813 0 0) "welcome.php" "weixin/" "test.php" "scr/" "schedule.php" "s/" "redirect_link.php" "project_list.php" "project_info.php" "other/" "login.php" "index.html" "download_file.php" "admin/" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
